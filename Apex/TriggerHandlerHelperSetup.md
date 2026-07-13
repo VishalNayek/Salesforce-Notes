@@ -58,7 +58,7 @@ public without sharing class AccountTrigger{
         this.oldMap = (Set<Id, Account>) Trigger.oldMap;
     }
 
-    //Trigger.old and Trigger.oldMap is only available on update and delete (both before and after)
+    //Trigger.old and Trigger.oldMap is only available on update and delete (in both before and after context)
 
     public void beforeInsert(){
 
