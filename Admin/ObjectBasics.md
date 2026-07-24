@@ -1,0 +1,2 @@
+## How to establish many-to-many relationship in Salesforce?
+A many-to-many relationship in Salesforce is implemented using a Junction Object. Each parent can have many junction records, which allows many records from one object to be associated with many records from the other object.
