@@ -84,4 +84,4 @@ Name starts with DM (DataMapper) then type of Data Mapper being used, followed b
 - T -> Transform
 
 Example: Name of Data Mapper with type Turbo Extract to fetch case records - 
-DMTEGetCaseRecords
+**DMTEGetCaseRecords**
