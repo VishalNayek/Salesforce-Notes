@@ -76,7 +76,7 @@ Data Mapper is used to perform data-related operations such as:
 
 ### Three types of Data Mapper
 
-1. <u>Data Mapper Extract</u>
+### 1. Data Mapper Extract ###
 
 **Purpose**
 Extracts data from Salesforce records and converts it into a structured JSON format.
@@ -85,37 +85,32 @@ Extracts data from Salesforce records and converts it into a structured JSON for
 - Passing data to an Integration Procedure
 - Displaying data in a FlexCard or OmniScript
 
-2. <u>Data Mapper Load</u>
+### 2. Data Mapper Load ###
 
 **Purpose**
 Loads JSON data into Salesforce objects.
+
 **Used When**
+
 Creating records
 Updating records
 Upserting records
 
-3. <u>Data Mapper Transform</u>
+### 3. Data Mapper Transform ###
 
 **Purpose**
+
 Transforms one JSON structure into another JSON structure.
 No Salesforce records are involved.
+
 **Used When**
+
 - API request formatting
 - API response formatting
 - Combining data
 - Renaming fields
 - Changing data structure
 
-3. <u>Data Mapper Transform</u>
-
-**Purpose**
-Transforms one JSON structure into another JSON structure. No Salesforce records are involved.
-**Used When**
-- API request formatting
-- API response formatting
-- Combining data
-- Renaming fields
-- Changing data structure
 
 
 
