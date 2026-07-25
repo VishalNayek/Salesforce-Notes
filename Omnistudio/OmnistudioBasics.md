@@ -124,9 +124,9 @@ Loads JSON data into Salesforce objects.
 
 **Used When**
 
-Creating records
-Updating records
-Upserting records
+- Creating records
+- Updating records
+- Upserting records
 
 ### 4. Transform ###
 
