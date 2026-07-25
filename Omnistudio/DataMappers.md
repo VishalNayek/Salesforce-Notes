@@ -58,11 +58,12 @@ No Salesforce records are involved.
 
 **Extract Object Path** - This is the name of the JSON node where the extracted data is placed in the output.
 
-**Example** - 
+**Example :**
 
-Extraction Object = Account
+- Extraction Object = Account
+- Extract Object Path = AccountInfo
 
-Extract Object Path = AccountInfo
+**Output:**
 
 ```json 
 {
