@@ -1,6 +1,6 @@
 # Types of Data Mappers : 
 
-### 1. Data Mapper Extract ###
+### 1. Extract ###
 
 **Purpose**
 
@@ -74,3 +74,14 @@ No Salesforce records are involved.
   }
 }
 ```
+
+## How to Name a DataMapper?
+
+Name starts with DM (DataMapper) then type of Data Mapper being used, followed by
+- E -> Extract
+- TE -> Turbo Extract
+- L -> Load
+- T -> Transform
+
+Example: Name of Data Mapper with type Turbo Extract to fetch case records - 
+DMTEGetCaseRecords
