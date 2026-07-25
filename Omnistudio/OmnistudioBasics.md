@@ -1,6 +1,21 @@
 ## What is Omnistudio?
 
-OmniStudio is a low-code Salesforce tool used to build guided customer journeys, integrate data from multiple systems, and create industry-specific digital applications using declarative components instead of custom code.
+Omnistudio is a **low-code development tool** built on top of Salesforce. It allows you to create user interfaces (UI), automate business processes, and integrate systems – all without writing much code.
+
+### Why is it used?
+
+- To reduce coding efforts
+- To build applications faster
+- To create guided user experiences
+- To integrate multiple systems easily
+
+**Example: Suppose a telecom company wants to create a new connection request form. Instead of writing custom code, they can use:**
+
+- OmniScript to design the form
+- DataRaptor to fetch customer details
+- Integration Procedure to validate information
+- FlexCards to display plan details
+- This makes development faster and easier.
 
 ## Four Pillars of Omnistudio.
 
@@ -74,7 +89,7 @@ Data Mapper is used to perform data-related operations such as:
 - Transforming data between different formats
 - In simple words, whenever you need to work with Salesforce data, you use Data Mapper.
 
-### Three types of Data Mapper
+## Three types of Data Mappers : 
 
 ### 1. Data Mapper Extract ###
 
@@ -110,6 +125,8 @@ No Salesforce records are involved.
 - Combining data
 - Renaming fields
 - Changing data structure
+
+
 
 
 
